@@ -1,0 +1,25 @@
+{
+  "name": "zavrsni_utorak",
+  "version": "1.0.0",
+  "description": "Zavrsni",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanT32/Zavrsni_utorak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilanT32/Zavrsni_utorak/issues"
+  },
+  "homepage": "https://github.com/MilanT32/Zavrsni_utorak#readme",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
